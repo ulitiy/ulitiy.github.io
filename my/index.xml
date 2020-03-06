@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mom Will Be Proud</title>
+    <link>https://momwillbeproud.com/my/</link>
+    <description>Recent content on Mom Will Be Proud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="https://momwillbeproud.com/my/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://momwillbeproud.com/my/boring-cv/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>https://momwillbeproud.com/my/boring-cv/</guid>
+      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://momwillbeproud.com/my/answers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://momwillbeproud.com/my/answers/</guid>
+      <description>Why not Google?
+There’s absolutely no way I could pass the coding interview at any of the big tech companies. Even the ones where the interviewer learned to code from one of my tutorials.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://momwillbeproud.com/my/mindset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://momwillbeproud.com/my/mindset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://momwillbeproud.com/my/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://momwillbeproud.com/my/tools/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
