@@ -6,19 +6,10 @@
     <description>Recent content on Mom Will Be Proud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Feb 2019 19:30:08 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
     
 	<atom:link href="https://momwillbeproud.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Configuration</title>
-      <link>https://momwillbeproud.com/my/boring-cv/</link>
-      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
-      
-      <guid>https://momwillbeproud.com/my/boring-cv/</guid>
-      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
-    </item>
     
     <item>
       <title></title>
